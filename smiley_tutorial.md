@@ -47,18 +47,10 @@ basic.forever(function () {
 	
 })
 ```
-
 ## Schritt 5 
 
 Führe das Programm aus, was fällt dir auf?
 
-```blocks
-basic.forever(function () {
-basic.showIcon(IconNames.Heart)
-basic.pause(2000)
-basic.clearScreen()
-})
-```
 
 ## Schritt 6
 
