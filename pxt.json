@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "smiley_tutorial.md"
+        "smiley_tutorial.md",
+        "_locales/de/smiley_tutorial.md"
     ],
     "testFiles": [
         "test.ts"
